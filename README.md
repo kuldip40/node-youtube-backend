@@ -27,7 +27,7 @@ Project will start on localhost:8000 port.
 
 ## Project Model
 
-[youtube backend model]("./src/youtube-backend")
+[youtube backend model](./src/youtube-backend.png)
 
 ## About
 
